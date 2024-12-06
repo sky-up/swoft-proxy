@@ -16,7 +16,7 @@ Swoft Proxy Component
 - composer command
 
 ```bash
-composer require swoft/proxy
+composer require swoft-fork/proxy
 ```
 
 ## Resources
